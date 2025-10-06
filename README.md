@@ -1,0 +1,8 @@
+# ecom-frontend
+Für SAS-Preparation 06_ecom
+
+npm run dev
+
+ggf. node version aktualisieren
+
+Falls im Terminal vom VisualCode der Fehler "da die Ausführung von Skripts auf diesem System deaktiviert ist" kommt, npm run dev im cmd ausführen (vermutlich Windows Admin Restriktion).
