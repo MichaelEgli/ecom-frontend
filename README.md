@@ -1,8 +1,8 @@
-# ecom-frontend
-Für SAS-Preparation 06_ecom
+# React + Vite
 
-npm run dev
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-ggf. node version aktualisieren
+Currently, two official plugins are available:
 
-Falls im Terminal vom VisualCode der Fehler "da die Ausführung von Skripts auf diesem System deaktiviert ist" kommt, npm run dev im cmd ausführen (vermutlich Windows Admin Restriktion).
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
